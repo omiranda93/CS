@@ -35,7 +35,7 @@
   		<artifactId>maven-checkstyle-plugin</artifactId>
   		<version>2.4</version>
   		<configuration>
-    			<configLocation>http://stud.hs-heilbronn.de/~nischmid/development/checkstyle-config.xml</configLocation>
+			<configLocation>CS\target\checkstyle.xml</configLocation>
   		</configuration>
 	</plugin>
           <plugin>
